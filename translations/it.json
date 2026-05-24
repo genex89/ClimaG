@@ -1,1 +1,16 @@
-
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Configurazione ClimaG Master",
+        "description": "Inserisci i parametri per coordinare i termostati di zona e la pompa di calore.",
+        "data": {
+          "name": "Nome del Controller Master",
+          "outdoor_temp_sensor": "Sensore Temperatura Esterna (Opzionale)",
+          "target_climates": "Termostati di Zona da coordinare",
+          "heat_pump_entity": "Entità della Pompa di Calore"
+        }
+      }
+    }
+  }
+}
