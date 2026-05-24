@@ -1,3 +1,11 @@
+"""
+ClimaG Integration for Home Assistant.
+Developed by: Gex89
+GitHub: https://github.com/genex89
+Description: Deterministic multi-zone climate coordinator.
+"""
+
+
 import logging
 from homeassistant.core import HomeAssistant
 from homeassistant.config_entries import ConfigEntry
